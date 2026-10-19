@@ -48,7 +48,7 @@ Kesenjangan penelitian (_research gap_) yang akan dikaji meliputi:
     - Resizing & Normalisasi
     - Augmentasi (Rotasi, Pencahayaan, Noise)
   - **3. Pemodelan & Ekstraksi (_Core AI_)**
-    - Algoritma: [Pilih: Donut / EasyOCR + Regex]
+    - Algoritma: Donut
     - Pengenalan Karakter (Teks)
     - Pemahaman Tata Letak (_Key-Value Extraction_)
   - **4. Luaran Data (_Output_)**
