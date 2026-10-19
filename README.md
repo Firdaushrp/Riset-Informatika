@@ -1,4 +1,4 @@
-# Implementasi Model Document Understanding Transformer (Donut) pada Sistem Pencatatan Pengeluaran Bulanan Berbasis Character Recognition
+# Implementasi Model _Document Understanding Transformer_ (Donut) pada Sistem Pencatatan Pengeluaran Bulanan Berbasis _Character Recognition_
 
 # 1. Dataset Rencana Riset Kecil
 
